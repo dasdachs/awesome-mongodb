@@ -216,6 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Development
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator
+ - [extract-mongo-schema](https://github.com/perak/extract-mongo-schema) - Extract the schema and visualize it with an ER diagram
  - [Mongo Playground](https://mongoplayground.net) - Online query playground
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
